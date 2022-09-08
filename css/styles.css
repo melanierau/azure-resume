@@ -1634,7 +1634,7 @@ h1, h2, h3, h4, h5, h6,
     font-family: var(--font-1);
     font-weight: 600;
     font-style: normal;
-    color: var(--color-text-dark);
+    color: var(--color-text-light);
     -webkit-font-variant-ligatures: common-ligatures;
     font-variant-ligatures: common-ligatures;
     text-rendering: optimizeLegibility;
