@@ -3986,6 +3986,10 @@ input[type="button"].btn--primary:focus {
     background-color: white;
     position: relative;
     overflow: hidden;
+    margin: 20%;
+    top: 50px; 
+    left: 140px;
+    right: 30px;
 }
 
 .folio-item__thumb::before {
