@@ -2,7 +2,7 @@ window.addEventListener('DOMContentLoaded', (event) =>{
     getVisitCount();
 })
 
-/* const functionApiUrl = 'https://getvisitorcounter.azurewebsites.net/api/GetVisitorCounter'; */
+/* const functionApiUrl = 'https://cloudazureresume.azurewebsites.net/api/GetResumeCounter?code=y9JPyynZOjKf1cFFTipdgBhmXWqy8aEiAC8kDcVvSzs0AzFuH96NWg=='; */
 const functionApiUrl = 'http://localhost:7071/api/GetResumeCounter';
 
 const getVisitCount = () => {
